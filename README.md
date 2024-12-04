@@ -15,5 +15,5 @@ This project contains a React component that represents a mobile-friendly card U
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Omar7wti/procrew
+   git clone https://github.com/Omar7wti/procrew.git
    npm install
