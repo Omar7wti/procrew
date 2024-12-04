@@ -36,7 +36,7 @@ export default function BottomToolbar() {
             </button>
 
             {/* Mic button */}
-            <button className="p-2 rounded-full text-gray-500 hover:bg-[#00A884]/90 text-white">
+            <button className="p-2 rounded-full text-gray-500 hover:bg-[#00A884]/90">
                 <Mic className="h-5 w-5" />
                 <span className="sr-only">Record voice message</span>
             </button>
